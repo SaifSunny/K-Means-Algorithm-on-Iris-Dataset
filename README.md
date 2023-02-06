@@ -9,7 +9,7 @@ The code is written in Python and is implemented in Jupyter Notebook. The code i
 ## How to use
 
 - To use this repository, you need to have Jupyter Notebook installed on your computer. You can download Jupyter Notebook from here.
-- Clone the repository on your local machine using the command git clone https://github.com/your-username/K-Means-Algorithm-on-Iris-Dataset.git
+- Clone the repository on your local machine using the command git clone https://github.com/SaifSunny/K-Means-Algorithm-on-Iris-Dataset
 - Open Jupyter Notebook and navigate to the repository.
 - Open the K\_Mean\_Lab\_Report.ipynb file and run the code.
 
